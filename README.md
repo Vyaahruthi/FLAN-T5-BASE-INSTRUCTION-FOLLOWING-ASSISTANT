@@ -4,7 +4,7 @@ An instruction-following AI assistant built using **Google’s FLAN-T5** model a
 The project focuses on correct model selection, stable inference, and real-world deployment.
 
 🔗 **Live Demo (Hugging Face Spaces):**  
-https://huggingface.co/spaces/Vyaahruthi/<your-space-name>
+https://huggingface.co/spaces/Vyaahruthi/flan-t5-instruction-assistant
 
 ---
 
@@ -65,4 +65,4 @@ The system uses **stateless inference**, which ensures stability across multiple
 - Gradio  
 
 ---
-## LIVE DEMO: https://huggingface.co/spaces/Vyaahruthi/blenderbot-chatbot
+
