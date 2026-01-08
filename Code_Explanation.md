@@ -369,15 +369,5 @@ sentencepiece
 
 ---
 
-## 🎯 Design Summary
 
-Key design choices:
-
-* Instruction-tuned model (FLAN-T5)
-* Stateless inference for stability
-* CPU-only execution
-* Clean separation of logic and UI
-* Defensive error handling
-
----
 
